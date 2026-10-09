@@ -19,6 +19,8 @@ untuk klasifikasi gambar dengan data terbatas menggunakan PyTorch dan torchvisio
 - Augmentasi memperkecil gap train/val tapi tidak mengubah skor akhir.
 - EfficientNet-B0 mendapatkan skor terbaik dengan total parameter sekitar 2,8 kali lebih sedikit dari ResNet-18.
 
+![Kurva loss](loss_curves.png)
+
 ## Setup
 - Data: Oxford-IIIT Pet, 10 ras (5 kucing, 5 anjing), split stratified 70/15/15
 - Model: ResNet-18 dan EfficientNet-B0 dengan bobot ImageNet (torchvision)
