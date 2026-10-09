@@ -1,0 +1,9 @@
+file,true,pred,confidence
+Ragdoll_146.jpg,Ragdoll,Birman,0.991
+Bengal_131.jpg,Bengal,Siamese,0.954
+Birman_79.jpg,Birman,Ragdoll,0.927
+beagle_135.jpg,Beagle,Basset Hound,0.858
+Birman_20.jpg,Birman,Ragdoll,0.824
+Siamese_240.jpg,Siamese,Birman,0.623
+Ragdoll_245.jpg,Ragdoll,Birman,0.612
+Birman_201.jpg,Birman,Persian,0.581
